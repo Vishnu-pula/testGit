@@ -1,3 +1,3 @@
-class
+public
 main method
 print("spy")
